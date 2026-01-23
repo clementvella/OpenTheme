@@ -7,7 +7,7 @@
 - corrected several issues related to text color in spreadsheets
 - fixed color of snap indicator in Draft WB
 - corrected display issues with SelectorToolbar addon in vertical orientation
-- corrected color/display issues releated to list-views
+- corrected color/display issues related to list-views
 
 2024.MAY.17
 - corrected a regression causing radio buttons to be styled like checkboxes
